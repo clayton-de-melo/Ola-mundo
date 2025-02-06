@@ -10,3 +10,5 @@ alteraçao teste
 não consigo localizar arquivo no github
 
 teste 2
+
+entendendo as diferenças entre softwares, editado diretamentamente pelo sit github.com

@@ -12,3 +12,6 @@ não consigo localizar arquivo no github
 teste 2
 
 entendendo as diferenças entre softwares, editado diretamentamente pelo sit github.com
+
+
+esta etapa foi feito apos instalar o github no linux

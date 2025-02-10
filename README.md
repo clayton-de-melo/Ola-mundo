@@ -17,3 +17,4 @@ entendendo as diferenças entre softwares, editado diretamentamente pelo sit git
 esta etapa foi feito apos instalar o github no linux
 alteração feita no domingo a noite 09 02 2025
 teste com  ana clara
+trabalho  concluido
